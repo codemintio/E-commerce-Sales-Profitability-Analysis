@@ -115,53 +115,16 @@ I created DAX measures to calculate the main business metrics:
 
 I created three separate dashboards to explore different areas of the business.
 
+## 📊 Dashboard Previews
+
 ### 1. Executive Dashboard
-
-This dashboard provides an overall view of business performance.
-
-**Key KPIs:**
-
-- Net Sales
-- Total Profit
-- Profit Margin
-- Total Orders
-- Average Order Value
-- Return Rate
-
-**Visualizations:**
-
-- Monthly Net Sales Trend
-- Monthly Profit Trend
-- Category-wise Sales & Profit
-- Sales Channel Performance
-- Top 5 States by Net Sales
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
 ### 2. Product Dashboard
-
-This dashboard focuses on product performance, profitability, and cost-related analysis.
-
-**Visualizations:**
-
-- Top 10 Products by Net Sales
-- Top 10 Products by Total Profit
-- Category-wise Profit Margin Analysis
-- Discount Impact on Profitability
-- Product-wise Return Analysis
-- Cost Breakdown Analysis
+![Product Dashboard](Screenshots/Product_Dashboard.png)
 
 ### 3. Customer & Regional Dashboard
-
-This dashboard focuses on customer segments and regional business performance.
-
-**Visualizations:**
-
-- Customer Segment Sales Analysis
-- Customer Segment Profitability
-- Top 10 Customers by Net Sales
-- Average Order Value by Customer Segment
-- State-wise Sales Performance
-- City-wise Sales Contribution
-- Regional Profitability Analysis
+![Customer & Regional Dashboard](Screenshots/Customer_Regional_Dashboard.png)
 
 ## Dashboard Interactivity
 
